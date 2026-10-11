@@ -1,0 +1,11 @@
+```gitignore
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Local model and generated files (if applicable)
+```
